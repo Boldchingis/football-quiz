@@ -1,0 +1,569 @@
+[
+  {
+    "question": "ДАШТ-ийн 2014 оны аваргаар хэн тодорсон бэ?",
+    "questionOriginal": "Who won the FIFA World Cup in 2014?",
+    "options": ["Герман", "Аргентин", "Бразил", "Испани"],
+    "answer": "Герман",
+    "answerOriginal": "Germany",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Хэнийг 'O Fenômeno' гэж нэрлэдэг вэ?",
+    "questionOriginal": "Who is known as 'O Fenômeno'?",
+    "options": ["Криштиану Роналдо", "Роналдо Назарио", "Пеле", "Ромарио"],
+    "answer": "Роналдо Назарио",
+    "answerOriginal": "Ronaldo Nazário",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Аль Английн клуб хамгийн олон Премьер лигийн цомтой вэ?",
+    "questionOriginal": "Which English club has the most Premier League titles?",
+    "options": ["Манчестер Юнайтед", "Ливерпүүл", "Челси", "Арсенал"],
+    "answer": "Манчестер Юнайтед",
+    "answerOriginal": "Manchester United",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Аргентины шигшээ багт одоогоор хамгийн олон гоол оруулсан тоглогч хэн бэ?",
+    "questionOriginal": "Who is the current all-time top scorer for the Argentina national team?",
+    "options": ["Габриел Батистута", "Серхио Агуеро", "Лионель Месси", "Диего Марадона"],
+    "answer": "Лионель Месси",
+    "answerOriginal": "Lionel Messi",
+    "difficulty": "easy"
+  },
+  {
+    "question": "1992-93 оны анхны Премьер лигийн улиралд аль клуб түрүүлсэн бэ?",
+    "questionOriginal": "Which club won the first-ever Premier League season in 1992-93?",
+    "options": ["Манчестер Юнайтед", "Арсенал", "Блэкбөрн Роверс", "Челси"],
+    "answer": "Манчестер Юнайтед",
+    "answerOriginal": "Manchester United",
+    "difficulty": "easy"
+  },
+  {
+    "question": "2021 оны Алтан бөмбөгийг хэн хүртсэн бэ?",
+    "questionOriginal": "Who won the 2021 Ballon d'Or?",
+    "options": ["Лионель Месси", "Роберт Левандовски", "Криштиану Роналдо", "Кевин Де Брюйне"],
+    "answer": "Лионель Месси",
+    "answerOriginal": "Lionel Messi",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Аль клубыг 'The Blues' гэж нэрлэдэг вэ?",
+    "questionOriginal": "Which club is known as 'The Blues'?",
+    "options": ["Челси", "Манчестер Сити", "Эвертон", "Арсенал"],
+    "answer": "Челси",
+    "answerOriginal": "Chelsea",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Аль тоглогчийг 'CR7' гэж нэрлэдэг вэ?",
+    "questionOriginal": "Which player is known as 'CR7'?",
+    "options": ["Криштиану Роналдо", "Рияд Махрез", "Килиан Мбаппе", "Неймар"],
+    "answer": "Криштиану Роналдо",
+    "answerOriginal": "Cristiano Ronaldo",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Дэлхийн цомын түүхэнд хамгийн хурдан гоол оруулсан тоглогч хэн бэ?",
+    "questionOriginal": "Which player scored the fastest goal in World Cup history?",
+    "options": ["Хакан Шүкүр", "Кафу", "Пеле", "Матис Болли"],
+    "answer": "Хакан Шүкүр",
+    "answerOriginal": "Hakan Şükür",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Премьер лигийн түүхэнд хамгийн их гоол оруулсан тоглогч хэн бэ?",
+    "questionOriginal": "Which player is the all-time top scorer in the Premier League?",
+    "options": ["Алан Ширер", "Уэйн Рүүни", "Серхио Агуеро", "Тьерри Анри"],
+    "answer": "Алан Ширер",
+    "answerOriginal": "Alan Shearer",
+    "difficulty": "easy"
+  },
+  {
+    "question": "2014 оны ДАШТ-ийг аль улс зохион байгуулсан бэ?",
+    "questionOriginal": "Which country hosted the 2014 FIFA World Cup?",
+    "options": ["Бразил", "Өмнөд Африк", "Герман", "Аргентин"],
+    "answer": "Бразил",
+    "answerOriginal": "Brazil",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Хамгийн олон FA Cup цомтой клуб аль вэ?",
+    "questionOriginal": "Which club won the most FA Cup titles?",
+    "options": ["Арсенал", "Манчестер Юнайтед", "Челси", "Ливерпүүл"],
+    "answer": "Арсенал",
+    "answerOriginal": "Arsenal",
+    "difficulty": "easy"
+  },
+  {
+    "question": "1998 оны ДАШТ-ийг аль улс хүртсэн бэ?",
+    "questionOriginal": "Which country won the 1998 FIFA World Cup?",
+    "options": ["Франц", "Бразил", "Герман", "Итали"],
+    "answer": "Франц",
+    "answerOriginal": "France",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Аль багийг 'The Gunners' гэж нэрлэдэг вэ?",
+    "questionOriginal": "Which team is known as 'The Gunners'?",
+    "options": ["Арсенал", "Тоттенхэм Хотспур", "Манчестер Сити", "Ливерпүүл"],
+    "answer": "Арсенал",
+    "answerOriginal": "Arsenal",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Англи шигшээ багт хамгийн олон гоол оруулсан тоглогч хэн бэ?",
+    "questionOriginal": "Who is the all-time top scorer for the England national football team?",
+    "options": ["Уэйн Рүүни", "Харри Кэйн", "Гари Линекер", "Бобби Чарльтон"],
+    "answer": "Уэйн Рүүни",
+    "answerOriginal": "Wayne Rooney",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Хамгийн олон Копа Америка цомтой улс аль вэ?",
+    "questionOriginal": "Which country has won the most Copa América titles?",
+    "options": ["Бразил", "Аргентин", "Уругвай", "Чили"],
+    "answer": "Уругвай",
+    "answerOriginal": "Uruguay",
+    "difficulty": "easy"
+  },
+  {
+    "question": "2010 оны ДАШТ-ийг аль улс хүртсэн бэ?",
+    "questionOriginal": "Which country won the 2010 FIFA World Cup?",
+    "options": ["Испани", "Нидерланд", "Герман", "Уругвай"],
+    "answer": "Испани",
+    "answerOriginal": "Spain",
+    "difficulty": "medium"
+  },
+  {
+    "question": "1960 онд анх удаа явагдсан УЕФА Европын аваргаар аль улс тодорсон бэ?",
+    "questionOriginal": "Which country won the first-ever UEFA European Championship in 1960?",
+    "options": ["Зөвлөлт Холбоот Улс", "Испани", "Итали", "Франц"],
+    "answer": "Зөвлөлт Холбоот Улс",
+    "answerOriginal": "Soviet Union",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Аль тоглогчийг 'The Pharaoh' гэж нэрлэдэг вэ?",
+    "questionOriginal": "Which player is known as 'The Pharaoh'?",
+    "options": ["Мохамед Салах", "Рияд Махрез", "Садио Мане", "Хаким Зиеш"],
+    "answer": "Мохамед Салах",
+    "answerOriginal": "Mohamed Salah",
+    "difficulty": "easy"
+  },
+  {
+    "question": "FC Барселонагийн гэр нутгийн стадион аль вэ?",
+    "questionOriginal": "Which stadium is home to FC Barcelona?",
+    "options": ["Олд Траффорд", "Камп Ноу", "Сантяго Бернабеу", "Сан Сиро"],
+    "answer": "Камп Ноу",
+    "answerOriginal": "Camp Nou",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Тьерри Анри Барселонад очихоосоо өмнө аль клубт тоглож байсан бэ?",
+    "questionOriginal": "Which club did Thierry Henry play for before joining Barcelona?",
+    "options": ["Ювентус", "Арсенал", "Челси", "АК Милан"],
+    "answer": "Арсенал",
+    "answerOriginal": "Arsenal",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Хамгийн олон УЕФА Чемпионуудын лигийн цом хүртсэн тоглогч хэн бэ?",
+    "questionOriginal": "Which player has won the most UEFA Champions League titles?",
+    "options": ["Криштиану Роналдо", "Лионель Месси", "Кларенс Зеедорф", "Икер Касильяс"],
+    "answer": "Криштиану Роналдо",
+    "answerOriginal": "Cristiano Ronaldo",
+    "difficulty": "medium"
+  },
+  {
+    "question": "1986 оны ДАШТ-ийг аль улс хүртсэн бэ?",
+    "questionOriginal": "Which country won the 1986 FIFA World Cup?",
+    "options": ["Аргентин", "Герман", "Франц", "Бразил"],
+    "answer": "Аргентин",
+    "answerOriginal": "Argentina",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Премьер лигт хамгийн олон тоглолт хийсэн тоглогч хэн бэ?",
+    "questionOriginal": "Which player has the most appearances in the Premier League?",
+    "options": ["Райан Гиггз", "Франк Лампард", "Стивен Жеррард", "Гарет Барри"],
+    "answer": "Гарет Барри",
+    "answerOriginal": "Gareth Barry",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2005 онд алдарт эргэлт хийж УЕФА Чемпионуудын лигийн цом хүртсэн клуб аль вэ?",
+    "questionOriginal": "Which club won the UEFA Champions League in 2005 after a famous comeback?",
+    "options": ["Ливерпүүл", "Челси", "АК Милан", "Реал Мадрид"],
+    "answer": "Ливерпүүл",
+    "answerOriginal": "Liverpool",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Златан Ибрахимович одоогоор аль клубт тоглож байна вэ?",
+    "questionOriginal": "Which club does Zlatan Ibrahimović currently play for?",
+    "options": ["Пари Сен-Жермен", "АК Милан", "ЛА Галакси", "Манчестер Юнайтед"],
+    "answer": "АК Милан",
+    "answerOriginal": "AC Milan",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2018 оны ДАШТ-ийг аль улс хүртсэн бэ?",
+    "questionOriginal": "Which country won the 2018 FIFA World Cup?",
+    "options": ["Франц", "Герман", "Бразил", "Аргентин"],
+    "answer": "Франц",
+    "answerOriginal": "France",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Аль тоглогчийг 'The Egyptian King' гэж нэрлэдэг вэ?",
+    "questionOriginal": "Which player is known as 'The Egyptian King'?",
+    "options": ["Мохамед Салах", "Рияд Махрез", "Садио Мане", "Хаким Зиеш"],
+    "answer": "Мохамед Салах",
+    "answerOriginal": "Mohamed Salah",
+    "difficulty": "easy"
+  },
+  {
+    "question": "УЕФА Чемпионуудын лигийн түүхэнд хамгийн олон гоол оруулсан тоглогч хэн бэ?",
+    "questionOriginal": "Which player is the all-time top scorer in the UEFA Champions League?",
+    "options": ["Криштиану Роналдо", "Лионель Месси", "Рауль", "Роберт Левандовски"],
+    "answer": "Криштиану Роналдо",
+    "answerOriginal": "Cristiano Ronaldo",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2004 оны УЕФА Европын аваргаар аль улс тодорсон бэ?",
+    "questionOriginal": "Which country won the UEFA Euro 2004?",
+    "options": ["Грек", "Португал", "Герман", "Франц"],
+    "answer": "Грек",
+    "answerOriginal": "Greece",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Аль стадионыг 'The Kop' гэж нэрлэдэг вэ?",
+    "questionOriginal": "Which stadium is known as 'The Kop'?",
+    "options": ["Энфилд", "Олд Траффорд", "Сан Сиро", "Камп Ноу"],
+    "answer": "Энфилд",
+    "answerOriginal": "Anfield",
+    "difficulty": "easy"
+  },
+  {
+    "question": "2023 оны байдлаар Лионель Месси аль клубт тоглож байна вэ?",
+    "questionOriginal": "Which club does Lionel Messi currently play for as of 2023?",
+    "options": ["Пари Сен-Жермен", "Барселона", "Аль-Хилал", "Интер Майами"],
+    "answer": "Интер Майами",
+    "answerOriginal": "Inter Miami",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2012 онд Байерн Мюнхенийг ялж УЕФА Чемпионуудын лигийн цом хүртсэн клуб аль вэ?",
+    "questionOriginal": "Which club won the UEFA Champions League in 2012 after defeating Bayern Munich in the final?",
+    "options": ["Челси", "Барселона", "Реал Мадрид", "Манчестер Юнайтед"],
+    "answer": "Челси",
+    "answerOriginal": "Chelsea",
+    "difficulty": "medium"
+  },
+  {
+    "question": "1998 оны Дэлхийн цомын шөвгийн тоглолтонд ялалтын гоол оруулсан тоглогч хэн бэ?",
+    "questionOriginal": "Which player scored the winning goal in the 1998 World Cup final?",
+    "options": ["Зинедин Зидан", "Тьерри Анри", "Давид Трезеге", "Иммануель Петит"],
+    "answer": "Иммануель Петит",
+    "answerOriginal": "Emmanuel Petit",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Аль багийг 'The Bianconeri' гэж нэрлэдэг вэ?",
+    "questionOriginal": "Which team is known as 'The Bianconeri'?",
+    "options": ["Ювентус", "АК Милан", "Интер Милан", "Рома"],
+    "answer": "Ювентус",
+    "answerOriginal": "Juventus",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Аль тоглогчийг 'The Iceman' гэж нэрлэдэг вэ?",
+    "questionOriginal": "Which player is known as 'The Iceman'?",
+    "options": ["Эйдур Гудьёнсен", "Гилфи Сигурдссон", "Арон Гуннарссон", "Йон Дади Бёдварссон"],
+    "answer": "Эйдур Гудьёнсен",
+    "answerOriginal": "Eiður Guðjohnsen",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Хамгийн олон Серия А цомтой клуб аль вэ?",
+    "questionOriginal": "Which club has won the most Serie A titles?",
+    "options": ["Ювентус", "АК Милан", "Интер Милан", "Рома"],
+    "answer": "Ювентус",
+    "answerOriginal": "Juventus",
+    "difficulty": "medium"
+  },
+  {
+    "question": "1930 оны анхны Дэлхийн цомын аваргаар аль улс тодорсон бэ?",
+    "questionOriginal": "Which country won the first World Cup in 1930?",
+    "options": ["Бразил", "Уругвай", "Итали", "Аргентин"],
+    "answer": "Уругвай",
+    "answerOriginal": "Uruguay",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2014 оны ДАШТ-ийн Алтан гутлыг хэн хүртсэн бэ?",
+    "questionOriginal": "Which player won the Golden Boot at the 2014 FIFA World Cup?",
+    "options": ["Хамес Родригес", "Лионель Месси", "Неймар", "Робин ван Перси"],
+    "answer": "Хамес Родригес",
+    "answerOriginal": "James Rodríguez",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Аль клубыг 'The Special One' гэж нэрлэдэг вэ?",
+    "questionOriginal": "Which club is known as 'The Special One'?",
+    "options": ["Челси", "Манчестер Юнайтед", "Реал Мадрид", "Тоттенхэм Хотспур"],
+    "answer": "Челси",
+    "answerOriginal": "Chelsea",
+    "difficulty": "easy"
+  },
+  {
+    "question": "2018 оны ДАШТ-д хамгийн олон гоол оруулсан тоглогч хэн бэ?",
+    "questionOriginal": "Which player scored the most goals in the 2018 FIFA World Cup?",
+    "options": ["Харри Кэйн", "Килиан Мбаппе", "Ромелу Лукаку", "Эден Азар"],
+    "answer": "Харри Кэйн",
+    "answerOriginal": "Harry Kane",
+    "difficulty": "medium"
+  },
+  {
+    "question": "1982 оны ДАШТ-ийг аль улс зохион байгуулсан бэ?",
+    "questionOriginal": "Which country hosted the 1982 FIFA World Cup?",
+    "options": ["Итали", "Испани", "Герман", "Аргентин"],
+    "answer": "Испани",
+    "answerOriginal": "Spain",
+    "difficulty": "medium"
+  },
+  {
+    "question": "1982 оны ДАШТ-ийг аль улс хүртсэн бэ?",
+    "questionOriginal": "Which country won the 1982 FIFA World Cup?",
+    "options": ["Итали", "Герман", "Бразил", "Аргентин"],
+    "answer": "Итали",
+    "answerOriginal": "Italy",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Премьер лигийн нэг улиралд хамгийн олон гоол оруулсан тоглогчийн рекордыг хэн эзэмшдэг вэ?",
+    "questionOriginal": "Which player holds the record for the most goals in a single season of the Premier League?",
+    "options": ["Серхио Агуеро", "Мохамед Салах", "Алан Ширер", "Харри Кэйн"],
+    "answer": "Мохамед Салах",
+    "answerOriginal": "Mohamed Salah",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Аль стадионыг 'The Home of Football' гэж нэрлэдэг вэ?",
+    "questionOriginal": "Which stadium is known as 'The Home of Football'?",
+    "options": ["Уэмбли стадион", "Олд Траффорд", "Камп Ноу", "Сантяго Бернабеу"],
+    "answer": "Уэмбли стадион",
+    "answerOriginal": "Wembley Stadium",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Хамгийн олон Дэлхийн цомын цомтой улс аль вэ?",
+    "questionOriginal": "Which country has the most World Cup titles?",
+    "options": ["Бразил", "Герман", "Итали", "Аргентин"],
+    "answer": "Бразил",
+    "answerOriginal": "Brazil",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Хамгийн олон УЕФА Европа лигийн цомтой баг аль вэ?",
+    "questionOriginal": "Which team won the most UEFA Europa League titles?",
+    "options": ["Севилья", "Ливерпүүл", "Ювентус", "Челси"],
+    "answer": "Севилья",
+    "answerOriginal": "Sevilla",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2022 оны ДАШТ-ийн Алтан гутлыг хэн хүртсэн бэ?",
+    "questionOriginal": "Which player won the Golden Boot at the 2022 FIFA World Cup?",
+    "options": ["Килиан Мбаппе", "Лионель Месси", "Оливер Жиру", "Жулиан Альварес"],
+    "answer": "Килиан Мбаппе",
+    "answerOriginal": "Kylian Mbappé",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Хамгийн олон Африкийн үндэстнүүдийн цомтой улс аль вэ?",
+    "questionOriginal": "Which country has won the most African Cup of Nations titles?",
+    "options": ["Египет", "Камерун", "Нигери", "Гана"],
+    "answer": "Египет",
+    "answerOriginal": "Egypt",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Аль баг 'The Citizens' гэж нэрлэгддэг вэ?",
+    "questionOriginal": "Which club is known as 'The Citizens'?",
+    "options": ["Манчестер Сити", "Арсенал", "Челси", "Ливерпүүл"],
+    "answer": "Манчестер Сити",
+    "answerOriginal": "Manchester City",
+    "difficulty": "easy"
+  },
+  {
+    "question": "1998 оны Дэлхийн цомын үеэр Францын шигшээ багийн менежер хэн байсан бэ?",
+    "questionOriginal": "Who was the manager of the French national team during their 1998 World Cup win?",
+    "options": ["Зинедин Зидан", "Дидье Дешам", "Раймонд Доменек", "Мишель Платини"],
+    "answer": "Дидье Дешам",
+    "answerOriginal": "Didier Deschamps",
+    "difficulty": "medium"
+  },
+  {
+    "question": "1966 оны ДАШТ-ийг аль улс хүртсэн бэ?",
+    "questionOriginal": "Which country won the 1966 FIFA World Cup?",
+    "options": ["Англи", "Герман", "Бразил", "Итали"],
+    "answer": "Англи",
+    "answerOriginal": "England",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Барселонаг орхисны дараа Йохан Круифф аль клубыг удирдсан бэ?",
+    "questionOriginal": "Which club did Johan Cruyff manage after leaving Barcelona?",
+    "options": ["Аякс", "Фейеноорд", "Байерн Мюнхен", "Тоттенхэм Хотспур"],
+    "answer": "Аякс",
+    "answerOriginal": "Ajax",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Европоос гадуурх Европын лигт тоглосны дараа Алтан бөмбөг хүртсэн анхны тоглогч хэн бэ?",
+    "questionOriginal": "Who was the first player to win the Ballon d'Or after playing in a European league outside of Europe?",
+    "options": ["Ривальдо", "Кака", "Джовани Дос Сантос", "Альфредо Ди Стефано"],
+    "answer": "Кака",
+    "answerOriginal": "Kaká",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Бүх ДАШТ-д оролцсон улс аль вэ?",
+    "questionOriginal": "Which country has appeared in every FIFA World Cup tournament?",
+    "options": ["Герман", "Итали", "Аргентин", "Бразил"],
+    "answer": "Бразил",
+    "answerOriginal": "Brazil",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Хөлбөмбөгийн түүхэнд хамгийн олон Премьер лигийн алтан медаль хосолсон тоглогч хэн бэ?",
+    "questionOriginal": "Who is the player with the most Premier League winners' medals in football history?",
+    "options": ["Раян Гиггз", "Кристиано Роналдо", "Патрис Эвра", "Серхио Агуэро"],
+    "answer": "Раян Гиггз",
+    "answerOriginal": "Ryan Giggs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "1998 оны ДАШТ-д хэн хамгийн олон гоол оруулсан бэ?",
+    "questionOriginal": "Who scored the most goals in the 1998 FIFA World Cup?",
+    "options": ["Зинедин Зидан", "Давид Трезеге", "Роналдо", "Тьерри Анри"],
+    "answer": "Роналдо",
+    "answerOriginal": "Ronaldo",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Лионель Месси хэзээ 7-р Алтан бөмбөгөө авсан бэ?",
+    "questionOriginal": "When did Lionel Messi win his 7th Ballon d'Or?",
+    "options": ["2020", "2021", "2019", "2022"],
+    "answer": "2021",
+    "answerOriginal": "2021",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Криштиано Роналдо хэдэн Португалын лигийн шилдэг тоглогч болсны дараа Английн лигт оролцсон бэ?",
+    "questionOriginal": "How many times did Cristiano Ronaldo win the Portuguese league's best player award before joining the English league?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2",
+    "answerOriginal": "2",
+    "difficulty": "hard"
+  },
+  {
+    "question": "2014 оны ДАШТ-ий хагас шигшээд хэн шалгарсан бэ?",
+    "questionOriginal": "Who made it to the semifinals of the 2014 FIFA World Cup?",
+    "options": ["Германи", "Бразил", "Аргентина", "Нидерланд"],
+    "answer": "Германи",
+    "answerOriginal": "Germany",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Дэлхийн хөлбөмбөгийн хамгийн том үзэсгэлэн болох ДАШТ-ий хэдэн төрлийн хожим эхлэх байсан бэ?",
+    "questionOriginal": "How many times has the FIFA World Cup started later than originally scheduled?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "1",
+    "answerOriginal": "1",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Хамгийн их сугалааны бөмбөгтэй улсаар хэн өрсөлдөж байсан вэ?",
+    "questionOriginal": "Which country has contested the most World Cup draws?",
+    "options": ["Германи", "Бразил", "Аргентина", "Испани"],
+    "answer": "Германи",
+    "answerOriginal": "Germany",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Эдвард Бондийг аль клубыг ардчилсан хөлбөмбөгчин гэж үздэг вэ?",
+    "questionOriginal": "Which club is Edward Bond regarded as a democratic football player?",
+    "options": ["Астон Вилла", "Блэкпул", "Ливерпүүл", "Тоттенхэм Хотспур"],
+    "answer": "Блэкпул",
+    "answerOriginal": "Blackpool",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Ювентусын хамгийн олон шүүгчийн байр хэн юм?",
+    "questionOriginal": "Who has made the most appearances for Juventus?",
+    "options": ["Алессандро Дель Пьеро", "Давид Трезеге", "Кристиан Роналдо", "Пауло Дибала"],
+    "answer": "Алессандро Дель Пьеро",
+    "answerOriginal": "Alessandro Del Piero",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Барселонага хамгийн их тоглогч хэн байсан бэ?",
+    "questionOriginal": "Who has played the most matches for Barcelona?",
+    "options": ["Жерард Пике", "Лионель Месси", "Серхио Бускетс", "Шави"],
+    "answer": "Лионель Месси",
+    "answerOriginal": "Lionel Messi",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Манчестер Юнайтед багийн хамгийн олон тоглолт хийх рекордыг хэн эзэмшдэг вэ?",
+    "questionOriginal": "Who holds the record for the most appearances for Manchester United?",
+    "options": ["Гэри Невилл", "Раян Гиггз", "Пол Скоулз", "Эрик Кантона"],
+    "answer": "Раян Гиггз",
+    "answerOriginal": "Ryan Giggs",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Лиг 1-д хамгийн олон гоол оруулсан тоглогч хэн бэ?",
+    "questionOriginal": "Who is the top scorer in Ligue 1 history?",
+    "options": ["Жан-Пьер Папен", "Златан Ибрахимович", "Килиан Мбаппе", "Серж Орье"],
+    "answer": "Златан Ибрахимович",
+    "answerOriginal": "Zlatan Ibrahimović",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Төмөр хөлбөмбөгийн хамгийн удаан тоглодог үндэсний хөлбөмбөгийн лиг ямар улс байдаг вэ?",
+    "questionOriginal": "Which country has the longest-standing national football league?",
+    "options": ["Шотланд", "Англи", "Испани", "Германи"],
+    "answer": "Англи",
+    "answerOriginal": "England",
+    "difficulty": "hard"
+  },
+  {
+    "question": "2000 оны Европын АШТ-ий финалд хэн түрүүлсэн бэ?",
+    "questionOriginal": "Who won the UEFA European Championship final in 2000?",
+    "options": ["Франц", "Германи", "Итали", "Испани"],
+    "answer": "Франц",
+    "answerOriginal": "France",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Хамгийн удаан хөлбөмбөгийн холбоог эзэмшигч хэн юм?",
+    "questionOriginal": "Who holds the record for the longest football club ownership?",
+    "options": ["Реал Мадрид", "Барселона", "Ливерпүүл", "Манчестер Юнайтед"],
+    "answer": "Реал Мадрид",
+    "answerOriginal": "Real Madrid",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Германы хамгийн олон бүртгэлтэй тоглогч хэн бэ?",
+    "questionOriginal": "Who is the most capped player for Germany?",
+    "options": ["Михаэль Баллак", "Йоахим Лев", "Лотар Маттеус", "Филипп Лам"],
+    "answer": "Лотар Маттеус",
+    "answerOriginal": "Lothar Matthäus",
+    "difficulty": "hard"
+  }]
