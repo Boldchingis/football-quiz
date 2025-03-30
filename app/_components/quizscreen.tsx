@@ -18,7 +18,7 @@ interface QuizScreenProps {
   streak: number;
   progressPercentage: number;
   selectedOption: string | null;
-  isCorrect: boolean;
+  isCorrect: boolean | null;   
   handleAnswer: (option: string) => void;
   handleNextQuestion: () => void;
 }

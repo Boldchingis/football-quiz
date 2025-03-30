@@ -3,7 +3,7 @@ import { useState, useEffect, useCallback } from "react";
 import WelcomeScreen from "./_components/landingPage";
 import ResultScreen from "./_components/Result";
 import QuizScreen from "./_components/quizscreen";
-import questionsData from "./data/data.json";
+import questionsDataRaw from "./data/data.json";
 
 // Define the structure of a quiz question
 interface QuizQuestion {
@@ -12,6 +12,12 @@ interface QuizQuestion {
   answer: string;
   difficulty: "easy" | "medium" | "hard";
 }
+
+// Cast questionsDataRaw to QuizQuestion[] while ensuring correct type for difficulty
+const questionsData: QuizQuestion[] = questionsDataRaw.map((question) => ({
+  ...question,
+  difficulty: question.difficulty as "easy" | "medium" | "hard", // cast difficulty to the correct type
+}));
 
 export default function FootballQuiz() {
   const [currentQuestion, setCurrentQuestion] = useState<number>(0);
